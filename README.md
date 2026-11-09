@@ -11,6 +11,12 @@ The full paper (LaTeX sources and compiled PDF) is in the [Paper](https://github
 
 Society-5 is a robotics project built around the **WowWee Robosapien X**. The goal is a "robo-researcher" that can explore an environment and get past obstacles without a user steering it, for example as a stand-in for a Mars exploration task. A mixed-reality interface also lets a person see through the robot's eyes and control it remotely.
 
+## In the media
+
+**[Военните репортери, 4.11.2018](https://youtu.be/1aO4j-VQSGU)** is an episode of "Military Reports" on the Bulgarian Military TV Channel. It includes a documentary, about 19 minutes long, on the live experiment and training on the future digital society (Society 5.0) run at SRS'2018 in Pamporovo. The robot appears in the footage.
+
+The event was organized by Assoc. Prof. Zlatogor Minchev (JTSAC) as part of the *Securing Digital Future 21* initiative, during the Summer Research School of the High School Students Institute of Mathematics and Informatics. Participants in the video: Alex Tsvetanov, Antoan Georgiev, Ivaylo Ivanov, Konstantin Delchev and Dimitar Chakarov.
+
 ## Repositories
 
 | Repository | Role |
